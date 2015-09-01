@@ -58,3 +58,6 @@ target/
 
 # Virtualenv
 venv/
+
+# Ipython notebook
+.ipynb_checkpoints/
