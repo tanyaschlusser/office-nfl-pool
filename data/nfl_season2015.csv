@@ -1,0 +1,257 @@
+week,date,dayofweek,homeTeam,awayTeam
+1,2015-09-10,Thursday,New England Patriots,Pittsburgh Steelers
+1,2015-09-13,Sunday,Buffalo Bills,Indianapolis Colts
+1,2015-09-13,Sunday,Washington Redskins,Miami Dolphins
+1,2015-09-13,Sunday,Jacksonville Jaguars,Carolina Panthers
+1,2015-09-13,Sunday,St. Louis Rams,Seattle Seahawks
+1,2015-09-13,Sunday,Chicago Bears,Green Bay Packers
+1,2015-09-13,Sunday,New York Jets,Cleveland Browns
+1,2015-09-13,Sunday,Houston Texans,Kansas City Chiefs
+1,2015-09-13,Sunday,Arizona Cardinals,New Orleans Saints
+1,2015-09-13,Sunday,San Diego Chargers,Detroit Lions
+1,2015-09-13,Sunday,Denver Broncos,Baltimore Ravens
+1,2015-09-13,Sunday,Oakland Raiders,Cincinnati Bengals
+1,2015-09-13,Sunday,Tampa Bay Buccaneers,Tennessee Titans
+1,2015-09-13,Sunday,Dallas Cowboys,New York Giants
+1,2015-09-14,Monday,Atlanta Falcons,Philadelphia Eagles
+1,2015-09-14,Monday,San Francisco 49ers,Minnesota Vikings
+2,2015-09-17,Thursday,Kansas City Chiefs,Denver Broncos
+2,2015-09-20,Sunday,Washington Redskins,St. Louis Rams
+2,2015-09-20,Sunday,New York Giants,Atlanta Falcons
+2,2015-09-20,Sunday,Cleveland Browns,Tennessee Titans
+2,2015-09-20,Sunday,Cincinnati Bengals,San Diego Chargers
+2,2015-09-20,Sunday,Buffalo Bills,New England Patriots
+2,2015-09-20,Sunday,Carolina Panthers,Houston Texans
+2,2015-09-20,Sunday,Chicago Bears,Arizona Cardinals
+2,2015-09-20,Sunday,Pittsburgh Steelers,San Francisco 49ers
+2,2015-09-20,Sunday,New Orleans Saints,Tampa Bay Buccaneers
+2,2015-09-20,Sunday,Minnesota Vikings,Detroit Lions
+2,2015-09-20,Sunday,Jacksonville Jaguars,Miami Dolphins
+2,2015-09-20,Sunday,Oakland Raiders,Baltimore Ravens
+2,2015-09-20,Sunday,Philadelphia Eagles,Dallas Cowboys
+2,2015-09-20,Sunday,Green Bay Packers,Seattle Seahawks
+2,2015-09-21,Monday,Indianapolis Colts,New York Jets
+3,2015-09-24,Thursday,New York Giants,Washington Redskins
+3,2015-09-27,Sunday,Houston Texans,Tampa Bay Buccaneers
+3,2015-09-27,Sunday,New York Jets,Philadelphia Eagles
+3,2015-09-27,Sunday,Carolina Panthers,New Orleans Saints
+3,2015-09-27,Sunday,Dallas Cowboys,Atlanta Falcons
+3,2015-09-27,Sunday,Minnesota Vikings,San Diego Chargers
+3,2015-09-27,Sunday,Tennessee Titans,Indianapolis Colts
+3,2015-09-27,Sunday,Cleveland Browns,Oakland Raiders
+3,2015-09-27,Sunday,Baltimore Ravens,Cincinnati Bengals
+3,2015-09-27,Sunday,New England Patriots,Jacksonville Jaguars
+3,2015-09-27,Sunday,St. Louis Rams,Pittsburgh Steelers
+3,2015-09-27,Sunday,Arizona Cardinals,San Francisco 49ers
+3,2015-09-27,Sunday,Miami Dolphins,Buffalo Bills
+3,2015-09-27,Sunday,Seattle Seahawks,Chicago Bears
+3,2015-09-27,Sunday,Detroit Lions,Denver Broncos
+3,2015-09-28,Monday,Green Bay Packers,Kansas City Chiefs
+4,2015-10-01,Thursday,Pittsburgh Steelers,Baltimore Ravens
+4,2015-10-04,Sunday,Miami Dolphins,New York Jets
+4,2015-10-04,Sunday,Washington Redskins,Philadelphia Eagles
+4,2015-10-04,Sunday,Buffalo Bills,New York Giants
+4,2015-10-04,Sunday,Tampa Bay Buccaneers,Carolina Panthers
+4,2015-10-04,Sunday,Indianapolis Colts,Jacksonville Jaguars
+4,2015-10-04,Sunday,Cincinnati Bengals,Kansas City Chiefs
+4,2015-10-04,Sunday,Chicago Bears,Oakland Raiders
+4,2015-10-04,Sunday,Atlanta Falcons,Houston Texans
+4,2015-10-04,Sunday,San Diego Chargers,Cleveland Browns
+4,2015-10-04,Sunday,Arizona Cardinals,St. Louis Rams
+4,2015-10-04,Sunday,San Francisco 49ers,Green Bay Packers
+4,2015-10-04,Sunday,Denver Broncos,Minnesota Vikings
+4,2015-10-04,Sunday,New Orleans Saints,Dallas Cowboys
+4,2015-10-05,Monday,Seattle Seahawks,Detroit Lions
+5,2015-10-08,Thursday,Houston Texans,Indianapolis Colts
+5,2015-10-11,Sunday,Cincinnati Bengals,Seattle Seahawks
+5,2015-10-11,Sunday,Atlanta Falcons,Washington Redskins
+5,2015-10-11,Sunday,Kansas City Chiefs,Chicago Bears
+5,2015-10-11,Sunday,Philadelphia Eagles,New Orleans Saints
+5,2015-10-11,Sunday,Tampa Bay Buccaneers,Jacksonville Jaguars
+5,2015-10-11,Sunday,Green Bay Packers,St. Louis Rams
+5,2015-10-11,Sunday,Tennessee Titans,Buffalo Bills
+5,2015-10-11,Sunday,Baltimore Ravens,Cleveland Browns
+5,2015-10-11,Sunday,Detroit Lions,Arizona Cardinals
+5,2015-10-11,Sunday,Oakland Raiders,Denver Broncos
+5,2015-10-11,Sunday,Dallas Cowboys,New England Patriots
+5,2015-10-11,Sunday,New York Giants,San Francisco 49ers
+5,2015-10-12,Monday,San Diego Chargers,Pittsburgh Steelers
+6,2015-10-15,Thursday,New Orleans Saints,Atlanta Falcons
+6,2015-10-18,Sunday,New York Jets,Washington Redskins
+6,2015-10-18,Sunday,Pittsburgh Steelers,Arizona Cardinals
+6,2015-10-18,Sunday,Minnesota Vikings,Kansas City Chiefs
+6,2015-10-18,Sunday,Buffalo Bills,Cincinnati Bengals
+6,2015-10-18,Sunday,Detroit Lions,Chicago Bears
+6,2015-10-18,Sunday,Cleveland Browns,Denver Broncos
+6,2015-10-18,Sunday,Jacksonville Jaguars,Houston Texans
+6,2015-10-18,Sunday,Tennessee Titans,Miami Dolphins
+6,2015-10-18,Sunday,Seattle Seahawks,Carolina Panthers
+6,2015-10-18,Sunday,Green Bay Packers,San Diego Chargers
+6,2015-10-18,Sunday,San Francisco 49ers,Baltimore Ravens
+6,2015-10-18,Sunday,Indianapolis Colts,New England Patriots
+6,2015-10-19,Monday,Philadelphia Eagles,New York Giants
+7,2015-10-22,Thursday,San Francisco 49ers,Seattle Seahawks
+7,2015-10-25,Sunday,Jacksonville Jaguars,Buffalo Bills
+7,2015-10-25,Sunday,Detroit Lions,Minnesota Vikings
+7,2015-10-25,Sunday,Tennessee Titans,Atlanta Falcons
+7,2015-10-25,Sunday,Indianapolis Colts,New Orleans Saints
+7,2015-10-25,Sunday,Washington Redskins,Tampa Bay Buccaneers
+7,2015-10-25,Sunday,Kansas City Chiefs,Pittsburgh Steelers
+7,2015-10-25,Sunday,New England Patriots,New York Jets
+7,2015-10-25,Sunday,St. Louis Rams,Cleveland Browns
+7,2015-10-25,Sunday,Miami Dolphins,Houston Texans
+7,2015-10-25,Sunday,San Diego Chargers,Oakland Raiders
+7,2015-10-25,Sunday,New York Giants,Dallas Cowboys
+7,2015-10-25,Sunday,Carolina Panthers,Philadelphia Eagles
+7,2015-10-26,Monday,Arizona Cardinals,Baltimore Ravens
+8,2015-10-29,Thursday,New England Patriots,Miami Dolphins
+8,2015-11-01,Sunday,Kansas City Chiefs,Detroit Lions
+8,2015-11-01,Sunday,Chicago Bears,Minnesota Vikings
+8,2015-11-01,Sunday,Baltimore Ravens,San Diego Chargers
+8,2015-11-01,Sunday,Pittsburgh Steelers,Cincinnati Bengals
+8,2015-11-01,Sunday,Houston Texans,Tennessee Titans
+8,2015-11-01,Sunday,Cleveland Browns,Arizona Cardinals
+8,2015-11-01,Sunday,Atlanta Falcons,Tampa Bay Buccaneers
+8,2015-11-01,Sunday,New Orleans Saints,New York Giants
+8,2015-11-01,Sunday,St. Louis Rams,San Francisco 49ers
+8,2015-11-01,Sunday,Oakland Raiders,New York Jets
+8,2015-11-01,Sunday,Dallas Cowboys,Seattle Seahawks
+8,2015-11-01,Sunday,Denver Broncos,Green Bay Packers
+8,2015-11-02,Monday,Carolina Panthers,Indianapolis Colts
+9,2015-11-05,Thursday,Cincinnati Bengals,Cleveland Browns
+9,2015-11-08,Sunday,Buffalo Bills,Miami Dolphins
+9,2015-11-08,Sunday,New York Jets,Jacksonville Jaguars
+9,2015-11-08,Sunday,New Orleans Saints,Tennessee Titans
+9,2015-11-08,Sunday,New England Patriots,Washington Redskins
+9,2015-11-08,Sunday,Minnesota Vikings,St. Louis Rams
+9,2015-11-08,Sunday,Pittsburgh Steelers,Oakland Raiders
+9,2015-11-08,Sunday,Carolina Panthers,Green Bay Packers
+9,2015-11-08,Sunday,Tampa Bay Buccaneers,New York Giants
+9,2015-11-08,Sunday,San Francisco 49ers,Atlanta Falcons
+9,2015-11-08,Sunday,Indianapolis Colts,Denver Broncos
+9,2015-11-08,Sunday,Dallas Cowboys,Philadelphia Eagles
+9,2015-11-09,Monday,San Diego Chargers,Chicago Bears
+10,2015-11-12,Thursday,New York Jets,Buffalo Bills
+10,2015-11-15,Sunday,Tampa Bay Buccaneers,Dallas Cowboys
+10,2015-11-15,Sunday,Green Bay Packers,Detroit Lions
+10,2015-11-15,Sunday,Washington Redskins,New Orleans Saints
+10,2015-11-15,Sunday,Tennessee Titans,Carolina Panthers
+10,2015-11-15,Sunday,Pittsburgh Steelers,Cleveland Browns
+10,2015-11-15,Sunday,Baltimore Ravens,Jacksonville Jaguars
+10,2015-11-15,Sunday,St. Louis Rams,Chicago Bears
+10,2015-11-15,Sunday,Philadelphia Eagles,Miami Dolphins
+10,2015-11-15,Sunday,Oakland Raiders,Minnesota Vikings
+10,2015-11-15,Sunday,New York Giants,New England Patriots
+10,2015-11-15,Sunday,Denver Broncos,Kansas City Chiefs
+10,2015-11-15,Sunday,Seattle Seahawks,Arizona Cardinals
+10,2015-11-16,Monday,Cincinnati Bengals,Houston Texans
+11,2015-11-19,Thursday,Jacksonville Jaguars,Tennessee Titans
+11,2015-11-22,Sunday,Atlanta Falcons,Indianapolis Colts
+11,2015-11-22,Sunday,Houston Texans,New York Jets
+11,2015-11-22,Sunday,Philadelphia Eagles,Tampa Bay Buccaneers
+11,2015-11-22,Sunday,Detroit Lions,Oakland Raiders
+11,2015-11-22,Sunday,Chicago Bears,Denver Broncos
+11,2015-11-22,Sunday,Minnesota Vikings,Green Bay Packers
+11,2015-11-22,Sunday,Baltimore Ravens,St. Louis Rams
+11,2015-11-22,Sunday,Miami Dolphins,Dallas Cowboys
+11,2015-11-22,Sunday,Carolina Panthers,Washington Redskins
+11,2015-11-22,Sunday,Arizona Cardinals,Cincinnati Bengals
+11,2015-11-22,Sunday,Seattle Seahawks,San Francisco 49ers
+11,2015-11-22,Sunday,San Diego Chargers,Kansas City Chiefs
+11,2015-11-23,Monday,New England Patriots,Buffalo Bills
+12,2015-11-26,Thursday,Detroit Lions,Philadelphia Eagles
+12,2015-11-26,Thursday,Dallas Cowboys,Carolina Panthers
+12,2015-11-26,Thursday,Green Bay Packers,Chicago Bears
+12,2015-11-29,Sunday,Cincinnati Bengals,St. Louis Rams
+12,2015-11-29,Sunday,Houston Texans,New Orleans Saints
+12,2015-11-29,Sunday,Indianapolis Colts,Tampa Bay Buccaneers
+12,2015-11-29,Sunday,Atlanta Falcons,Minnesota Vikings
+12,2015-11-29,Sunday,Washington Redskins,New York Giants
+12,2015-11-29,Sunday,New York Jets,Miami Dolphins
+12,2015-11-29,Sunday,Kansas City Chiefs,Buffalo Bills
+12,2015-11-29,Sunday,Tennessee Titans,Oakland Raiders
+12,2015-11-29,Sunday,Jacksonville Jaguars,San Diego Chargers
+12,2015-11-29,Sunday,San Francisco 49ers,Arizona Cardinals
+12,2015-11-29,Sunday,Seattle Seahawks,Pittsburgh Steelers
+12,2015-11-29,Sunday,Denver Broncos,New England Patriots
+12,2015-11-30,Monday,Cleveland Browns,Baltimore Ravens
+13,2015-12-03,Thursday,Detroit Lions,Green Bay Packers
+13,2015-12-06,Sunday,New York Giants,New York Jets
+13,2015-12-06,Sunday,Buffalo Bills,Houston Texans
+13,2015-12-06,Sunday,St. Louis Rams,Arizona Cardinals
+13,2015-12-06,Sunday,Tampa Bay Buccaneers,Atlanta Falcons
+13,2015-12-06,Sunday,New Orleans Saints,Carolina Panthers
+13,2015-12-06,Sunday,Minnesota Vikings,Seattle Seahawks
+13,2015-12-06,Sunday,Miami Dolphins,Baltimore Ravens
+13,2015-12-06,Sunday,Cleveland Browns,Cincinnati Bengals
+13,2015-12-06,Sunday,Tennessee Titans,Jacksonville Jaguars
+13,2015-12-06,Sunday,Chicago Bears,San Francisco 49ers
+13,2015-12-06,Sunday,San Diego Chargers,Denver Broncos
+13,2015-12-06,Sunday,Oakland Raiders,Kansas City Chiefs
+13,2015-12-06,Sunday,New England Patriots,Philadelphia Eagles
+13,2015-12-06,Sunday,Pittsburgh Steelers,Indianapolis Colts
+13,2015-12-07,Monday,Washington Redskins,Dallas Cowboys
+14,2015-12-10,Thursday,Arizona Cardinals,Minnesota Vikings
+14,2015-12-13,Sunday,Kansas City Chiefs,San Diego Chargers
+14,2015-12-13,Sunday,Jacksonville Jaguars,Indianapolis Colts
+14,2015-12-13,Sunday,Cleveland Browns,San Francisco 49ers
+14,2015-12-13,Sunday,St. Louis Rams,Detroit Lions
+14,2015-12-13,Sunday,Tampa Bay Buccaneers,New Orleans Saints
+14,2015-12-13,Sunday,Carolina Panthers,Atlanta Falcons
+14,2015-12-13,Sunday,Chicago Bears,Washington Redskins
+14,2015-12-13,Sunday,Houston Texans,New England Patriots
+14,2015-12-13,Sunday,Cincinnati Bengals,Pittsburgh Steelers
+14,2015-12-13,Sunday,New York Jets,Tennessee Titans
+14,2015-12-13,Sunday,Philadelphia Eagles,Buffalo Bills
+14,2015-12-13,Sunday,Denver Broncos,Oakland Raiders
+14,2015-12-13,Sunday,Green Bay Packers,Dallas Cowboys
+14,2015-12-13,Sunday,Baltimore Ravens,Seattle Seahawks
+14,2015-12-14,Monday,Miami Dolphins,New York Giants
+15,2015-12-17,Thursday,St. Louis Rams,Tampa Bay Buccaneers
+15,2015-12-19,Saturday,Dallas Cowboys,New York Jets
+15,2015-12-20,Sunday,New England Patriots,Tennessee Titans
+15,2015-12-20,Sunday,Indianapolis Colts,Houston Texans
+15,2015-12-20,Sunday,Jacksonville Jaguars,Atlanta Falcons
+15,2015-12-20,Sunday,Minnesota Vikings,Chicago Bears
+15,2015-12-20,Sunday,Philadelphia Eagles,Arizona Cardinals
+15,2015-12-20,Sunday,New York Giants,Carolina Panthers
+15,2015-12-20,Sunday,Baltimore Ravens,Kansas City Chiefs
+15,2015-12-20,Sunday,Washington Redskins,Buffalo Bills
+15,2015-12-20,Sunday,Oakland Raiders,Green Bay Packers
+15,2015-12-20,Sunday,Seattle Seahawks,Cleveland Browns
+15,2015-12-20,Sunday,Pittsburgh Steelers,Denver Broncos
+15,2015-12-20,Sunday,San Diego Chargers,Miami Dolphins
+15,2015-12-20,Sunday,San Francisco 49ers,Cincinnati Bengals
+15,2015-12-21,Monday,New Orleans Saints,Detroit Lions
+16,2015-12-24,Thursday,Oakland Raiders,San Diego Chargers
+16,2015-12-26,Saturday,Philadelphia Eagles,Washington Redskins
+16,2015-12-27,Sunday,Miami Dolphins,Indianapolis Colts
+16,2015-12-27,Sunday,New Orleans Saints,Jacksonville Jaguars
+16,2015-12-27,Sunday,New York Jets,New England Patriots
+16,2015-12-27,Sunday,Buffalo Bills,Dallas Cowboys
+16,2015-12-27,Sunday,Tampa Bay Buccaneers,Chicago Bears
+16,2015-12-27,Sunday,Atlanta Falcons,Carolina Panthers
+16,2015-12-27,Sunday,Tennessee Titans,Houston Texans
+16,2015-12-27,Sunday,Kansas City Chiefs,Cleveland Browns
+16,2015-12-27,Sunday,Detroit Lions,San Francisco 49ers
+16,2015-12-27,Sunday,Minnesota Vikings,New York Giants
+16,2015-12-27,Sunday,Seattle Seahawks,St. Louis Rams
+16,2015-12-27,Sunday,Arizona Cardinals,Green Bay Packers
+16,2015-12-27,Sunday,Baltimore Ravens,Pittsburgh Steelers
+16,2015-12-28,Monday,Denver Broncos,Cincinnati Bengals
+17,2016-01-03,Sunday,Buffalo Bills,New York Jets
+17,2016-01-03,Sunday,Miami Dolphins,New England Patriots
+17,2016-01-03,Sunday,Carolina Panthers,Tampa Bay Buccaneers
+17,2016-01-03,Sunday,Atlanta Falcons,New Orleans Saints
+17,2016-01-03,Sunday,Cincinnati Bengals,Baltimore Ravens
+17,2016-01-03,Sunday,Cleveland Browns,Pittsburgh Steelers
+17,2016-01-03,Sunday,Houston Texans,Jacksonville Jaguars
+17,2016-01-03,Sunday,Indianapolis Colts,Tennessee Titans
+17,2016-01-03,Sunday,Kansas City Chiefs,Oakland Raiders
+17,2016-01-03,Sunday,Dallas Cowboys,Washington Redskins
+17,2016-01-03,Sunday,New York Giants,Philadelphia Eagles
+17,2016-01-03,Sunday,Chicago Bears,Detroit Lions
+17,2016-01-03,Sunday,Green Bay Packers,Minnesota Vikings
+17,2016-01-03,Sunday,Denver Broncos,San Diego Chargers
+17,2016-01-03,Sunday,Arizona Cardinals,Seattle Seahawks
+17,2016-01-03,Sunday,San Francisco 49ers,St. Louis Rams
