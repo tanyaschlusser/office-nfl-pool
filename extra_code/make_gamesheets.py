@@ -30,9 +30,9 @@ def make_fill(color):
                 start_color=color, end_color=color, fill_type='solid')
     except AttributeError:
         fill = openpyxl.styles.Fill()
-        fill.fill_type = openpyxl.styles.Fill.FILL_SOLID
-        fill.start_color = color
-        fill.end_color = color
+        fill.start_color.index = color
+        fill.end_color.index = color
+        fill.fill_type = 'solid'
         return fill
 
 fills = dict(
@@ -50,12 +50,17 @@ def add_conditional_fill(sheet, cell_range, color='yellow', formula=None):
                 'stopIfTrue': '1'
         })
     except AttributeError:
+        dxfid = sheet.conditional_formatting.addDxfStyle(
+                sheet.parent, None, None, fills[color])
         sheet.conditional_formatting.addCustomRule(cell_range, {
                 'type': 'expression',
-                'dxf': {'fill': fills[color]},
+                #'dxf': {'fill': fills[color]},
+                'dxfId': dxfid,
                 'formula': [formula],
                 'stopIfTrue': '1'
         })
+
+
 
 # rows and columns to skip
 skip_rows = 7
@@ -102,9 +107,9 @@ with pd.ExcelWriter(output_file, engine='openpyxl') as workbook:
                 sheet[cell].alignment = openpyxl.styles.Alignment(horizontal = 'center')
             except TypeError:
                 sheet[cell].style.font = openpyxl.styles.fonts.Font()
-                sheet[cell].style.font_style = openpyxl.styles.fonts.Font.bold = True
+                sheet[cell].style.font.bold = True
                 sheet[cell].style.alignment = openpyxl.styles.alignment.Alignment()
-                sheet[cell].style.alignment_style = openpyxl.styles.alignment.Alignment.HORIZONTAL_CENTER
+                sheet[cell].style.alignment.horizontal = openpyxl.styles.alignment.Alignment.HORIZONTAL_CENTER
         # Right align specific cells
         right_align = ('A4', 'A5', 'A{}'.format(nrow + skip_rows + 1))
         for cell in right_align:
