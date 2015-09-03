@@ -89,15 +89,15 @@ with pd.ExcelWriter(output_filename, engine='openpyxl') as workbook:
             sheet[cell].alignment = styles.Alignment(horizontal = 'center')
         except TypeError:
             sheet[cell].style.font = styles.fonts.Font()
-            sheet[cell].style.font_style = styles.fonts.Font.bold = True
+            sheet[cell].style.font.bold = True
             sheet[cell].style.alignment = styles.alignment.Alignment()
-            sheet[cell].style.alignment_style = styles.alignment.Alignment.HORIZONTAL_CENTER
+            sheet[cell].style.alignment.horizontal = styles.alignment.Alignment.HORIZONTAL_CENTER
+
     # Make a horizontal boundary between each week
     try:
         separator = styles.borders.Border(bottom=styles.borders.Side(style='thin'))
     except AttributeError:
-        separator = styles.borders.Border()
-        separator.border_style = styles.borders.Border.BORDER_THIN
+        separator = None
     for row_offset in season[['Week','Home Team']].groupby('Week').count().cumsum().values:
         for col_offset in range(season.shape[1]):
             try:
@@ -107,9 +107,9 @@ with pd.ExcelWriter(output_filename, engine='openpyxl') as workbook:
                 ).border = separator
             except AttributeError:
                 sheet.cell(
-                    row=skip_rows+row_offset[0]+1,
-                    column=skip_cols+col_offset+1
-                ).style.border = separator
+                    row=skip_rows+row_offset[0],
+                    column=skip_cols+col_offset
+                ).style.borders.bottom.border_style = styles.borders.Border.BORDER_THIN
 
 
 # Finished.
