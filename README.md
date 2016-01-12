@@ -15,7 +15,10 @@ python3  make_predictions.py
 ```
 
 ## The notebooks
-Also, do try out [the notebook][nb1]!
+Also, do try out [the notebook][nb1]! You can make both executable
+*in your browser* by clicking on this:
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tanyaschlusser/office-nfl-pool)
 
 
 
